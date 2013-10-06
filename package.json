@@ -1,5 +1,5 @@
 {
-  "name": "panama",
+  "name": "22tracks",
   "version": "0.0.1",
   "devDependencies": {
     "grunt": "~0.4.1",
@@ -7,5 +7,30 @@
     "grunt-contrib-connect": "~0.3.0",
     "path": "~0.4.9",
     "grunt-node-webkit-builder": "~0.1.6"
+  },
+  "description": "a node webkit wrapper for 22tracks",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-node-webkit-builder": "~0.1.10",
+    "grunt-open": "~0.2.2",
+    "path": "~0.4.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frankbaele/22tracks.git"
+  },
+  "keywords": [
+    "22tracks",
+    "node-webkit"
+  ],
+  "author": "frank baele",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/frankbaele/22tracks/issues"
   }
 }
