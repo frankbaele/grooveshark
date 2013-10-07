@@ -1,21 +1,21 @@
 {
-  "name": "22tracks",
+  "name": "grooveshark",
   "version": "0.0.1",
   "devDependencies": {
     "path": "~0.4.9"
   },
-  "description": "A 22 tracks wrapper",
-  "main": "http://22tracks.com",
+  "description": "A grooveshark wrapper",
+  "main": "http://grooveshark.com",
   "window": {
-    "icon": "./22tracks.jpg",
+    "icon": "./grooveshark.jpg",
     "show": true,
     "toolbar": false,
     "frame": true,
     "position": "center",
-    "width": 1000,
+    "width": 1080,
     "height": 700,
-    "min_width": 220,
-    "min_height": 220
+    "min_width": 480,
+    "min_height": 400
   },
   "webkit": {
     "plugin": true

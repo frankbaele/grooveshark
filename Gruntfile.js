@@ -9,9 +9,9 @@ module.exports = function (grunt) {
       options: {
         build_dir: './dist', // Where the build version of my node-webkit app is saved
         mac: true,
-        win: true,
-        linux32: true,
-        linux64: true
+        win: false,
+        linux32: false,
+        linux64: false
       },
       src: ['./src/**/*'] // Your node-wekit app
     }
