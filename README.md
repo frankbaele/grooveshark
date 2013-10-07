@@ -1,9 +1,9 @@
-22tracks
+grooveshark
 ========
 
-A node webkit app builder for 22tracks.com
+A node webkit app builder for grooveshark.com
 
-This project allows you to build a standalone 22tracks app using node webkit, nothing fancy.
+This project allows you to build a standalone grooveshark app using node webkit, nothing fancy.
 
 How to install
 ====
